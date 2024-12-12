@@ -1,13 +1,7 @@
-## Table of Contents
-* [Introduction](#introduction)
-* [Getting Started](#getting-started)
+# Welcome to my learning Materials page!
 
-<a id="introduction"></a>
-## Introduction
+This GitHub repository provides a roadmap for learning machine learning. It outlines key concepts, learning resources, and tools, guiding you through the essential steps to acquire machine learning skills. 
 
-This is the introduction...
+This roadmap has been incredibly helpful in my own learning journey. 
 
-<a id="getting-started"></a>
-## Getting Started
-
-To get started...
+[Check out the Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
